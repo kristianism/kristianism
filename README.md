@@ -36,14 +36,6 @@ Smart contracts, smarter decisions. Let's decentralize everything!
       <br>NodeJS
     </td>
     <td align="center" width="96">
-      <img src="./img/React-Dark.svg" width="48" height="48" alt="React"/>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="./img/TailwindCSS-Dark.svg" width="48" height="48" alt="Tailwind"/>
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
       <img src="./img/TypeScript.svg" width="48" height="48" alt="TypeScript"/>
       <br>TypeScript
     </td>
