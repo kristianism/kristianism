@@ -1,4 +1,5 @@
 ## 👋 Hi there, I'm Kristian!
+![Profile Views](https://komarev.com/ghpvc/?username=kristianism)
 
 👾 DeFi Degen | Solidity Developer | Financial Alchemist 💰
 
