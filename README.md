@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Kristian!
 
-### Let's Connect!
+### :coffee: Let's Connect!
 <div id="badges">
   <a href="https://discord.com/users/iamkristian">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
@@ -13,9 +13,7 @@
 
 ### :hammer_and_wrench: My Tech Stack:
 
-
 ### Languages
-
 <table>
   <tr>
     <td align="center" width="96">
@@ -50,7 +48,6 @@
 </table>
 
 ### Tools
-
 <table>
   <tr>
     <td align="center" width="96">
@@ -66,4 +63,4 @@
 <img src="./img/linebreak.gif">
 
 ### :fire: Github Activities:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kristianism)](https://github.com/kristianism/)
+![Kristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kristianism&show_icons=true&theme=dark) 
