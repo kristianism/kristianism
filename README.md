@@ -1,5 +1,15 @@
 ## 👋 Hi there, I'm Kristian!
 
+👾 DeFi Degen | Solidity Developer | Financial Alchemist 💰
+
+Building the future of decentralized finance with code, numbers, and a touch of chaos.
+
+💻 Crafting reliable and efficient smart contracts.<br>
+📊 Bridging traditional finance with blockchain wizardry.<br>
+🚀 Passionate about no-code DeFi tools, protocol security, and sustainable financial ecosystems.<br>
+
+Smart contracts, smarter decisions. Let's decentralize everything!
+
 ### :coffee: Let's Connect!
 <div id="badges">
   <a href="https://discord.com/users/iamkristian">
@@ -62,5 +72,8 @@
 </table>
 <img src="./img/linebreak.gif">
 
-### :fire: Github Activities:
-![Kristian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kristianism&show_icons=true&theme=dark) 
+<details>
+  <br>
+  <summary><b> :fire: Github Activities:</b></summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=kristianism&show_icons=true&theme=dark"> 
+</details>
