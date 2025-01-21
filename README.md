@@ -9,26 +9,61 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
+<img src="./img/linebreak.gif">
 
-## :hammer_and_wrench: My Tech Stack:
+### :hammer_and_wrench: My Tech Stack:
+
 
 ### Languages
-<div>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Solidity.svg" title="Solidity" alt="Solidity" width="40" height ="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-</div>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="./img/Solidity.svg" width="48" height="48" alt="Solidity"/>
+      <br>Solidity
+    </td>
+    <td align="center" width="96">
+      <img src="./img/NodeJS-Dark.svg" width="48" height="48" alt="NodeJS"/>
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <img src="./img/React-Dark.svg" width="48" height="48" alt="React"/>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="./img/TailwindCSS-Dark.svg" width="48" height="48" alt="Tailwind"/>
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="./img/TypeScript.svg" width="48" height="48" alt="TypeScript"/>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="./img/JavaScript.svg" width="48" height="48" alt="JavaScript"/>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="./img/Python-Dark.svg" width="48" height="48" alt="Python"/>
+      <br>Python
+    </td>
+  </tr>
+</table>
 
 ### Tools
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Hardhat" alt="Hardhat" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-</div>
 
-## :fire: Github Activities:
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="./img/hardhat-original.svg" width="48" height="48" alt="Hardhat"/>
+      <br>Hardhat
+    </td>
+    <td align="center" width="96">
+      <img src="./img/VSCode-Dark.svg" width="48" height="48" alt="VSCode"/>
+      <br>VSCode
+    </td>
+  </tr>
+</table>
+<img src="./img/linebreak.gif">
+
+### :fire: Github Activities:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kristianism)](https://github.com/kristianism/)
