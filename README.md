@@ -11,7 +11,7 @@ Building the future of decentralized finance with code, numbers, and a touch of 
 
 Smart contracts, smarter decisions. Let's decentralize everything!
 
-### :coffee: Let's Connect!
+### :coffee: Want to build together? Let's connect!
 <div id="badges">
   <a href="https://discord.com/users/iamkristian">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
@@ -19,7 +19,11 @@ Smart contracts, smarter decisions. Let's decentralize everything!
   <a href="https://t.me/thisiskristian">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a href="https://x.com/defimagnate">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
+
 <img src="./img/linebreak.gif">
 
 ### :hammer_and_wrench: My Tech Stack:
