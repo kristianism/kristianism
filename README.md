@@ -19,7 +19,7 @@ Smart contracts, smarter decisions. Let's decentralize everything!
   <a href="https://t.me/thisiskristian">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://x.com/defimagnate">
+  <a href="https://x.com/0xKristianity">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
