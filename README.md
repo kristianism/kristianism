@@ -58,6 +58,10 @@ Smart contracts, smarter decisions. Let's decentralize everything!
 <table>
   <tr>
     <td align="center" width="96">
+      <img src="./img/foundry.png" width="48" alt="Foundry"/>
+      <br>Foundry
+    </td>    
+    <td align="center" width="96">
       <img src="./img/hardhat-original.svg" width="48" height="48" alt="Hardhat"/>
       <br>Hardhat
     </td>
