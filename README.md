@@ -12,6 +12,11 @@ Building the future of decentralized finance with code, numbers, and a touch of 
 Smart contracts, smarter decisions. Let's decentralize everything!
 
 ### :coffee: Want to build together? Let's connect!
+
+<a href="https://www.buymeacoffee.com/kristianism">
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kristianism&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff"/>
+</a>
+
 <div id="badges">
   <a href="https://discord.com/users/iamkristian">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
