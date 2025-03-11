@@ -13,10 +13,6 @@ Smart contracts, smarter decisions. Let's decentralize everything!
 
 ### :coffee: Want to build together? Let's connect!
 
-<a href="https://www.buymeacoffee.com/kristianism">
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kristianism&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff"/>
-</a>
-
 <div id="badges">
   <a href="https://discord.com/users/iamkristian">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
@@ -27,7 +23,11 @@ Smart contracts, smarter decisions. Let's decentralize everything!
   <a href="https://x.com/0xKristianity">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+</div><br>
+
+<a href="https://www.buymeacoffee.com/kristianism">
+  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kristianism&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff"/>
+</a>
 
 <img src="./img/linebreak.gif">
 
