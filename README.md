@@ -41,10 +41,6 @@ Smart contracts, smarter decisions. Let's decentralize everything!
       <br>Solidity
     </td>
     <td align="center" width="96">
-      <img src="./img/NodeJS-Dark.svg" width="48" height="48" alt="NodeJS"/>
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
       <img src="./img/TypeScript.svg" width="48" height="48" alt="TypeScript"/>
       <br>TypeScript
     </td>
@@ -69,6 +65,14 @@ Smart contracts, smarter decisions. Let's decentralize everything!
     <td align="center" width="96">
       <img src="./img/hardhat-original.svg" width="48" height="48" alt="Hardhat"/>
       <br>Hardhat
+    </td>
+    <td align="center" width="96">
+      <img src="./img/NodeJS-Dark.svg" width="48" height="48" alt="NodeJS"/>
+      <br>Node.JS
+    </td>
+    <td align="center" width="96">
+      <img src="./img/nextjs-original.svg" width="48" height="48" alt="NextJS"/>
+      <br>Next.JS
     </td>
     <td align="center" width="96">
       <img src="./img/VSCode-Dark.svg" width="48" height="48" alt="VSCode"/>
