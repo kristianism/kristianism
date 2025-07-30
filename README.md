@@ -25,10 +25,6 @@ Smart contracts, smarter decisions. Let's decentralize everything!
   </a>
 </div><br>
 
-<a href="https://www.buymeacoffee.com/kristianism">
-  <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=kristianism&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff"/>
-</a>
-
 <img src="./img/linebreak.gif">
 
 ### :hammer_and_wrench: My Tech Stack:
