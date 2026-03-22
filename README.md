@@ -15,8 +15,8 @@
 A developer with a finance background, building the tools that automate, audit, and scale financial operations.
 
 - 💻 Designing **n8n workflows** and API integrations for accounting and financial systems
-- 🔗 Building **ERC-20 tokens, NFTs, and DeFi protocols** — plus smart contract security audits
-- 📊 Certified in forensic accounting and financial consulting — **CrFA | CFC | BS Management Accounting**
+- 🔗 Building **ERC-20 tokens, NFTs, and DeFi protocols** plus smart contract security audits
+- 📊 Certified in forensic accounting and financial consulting, **CrFA | CFC | BS Management Accounting**
 - 🌐 Crafting full-stack **Next.js** dashboards and Web3 frontends
 
 <img src="./img/linebreak.gif">
