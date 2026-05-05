@@ -105,8 +105,8 @@ A developer with a finance background, building the tools that automate, audit, 
             <br>Docker
           </td>
           <td align="center" width="96">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="48" height="48" alt="Supabase"/>
-            <br>Supabase
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="Supabase"/>
+            <br>PostgreSQL
           </td>
           <td align="center" width="96">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="48" height="48" alt="Raspberry Pi"/>
