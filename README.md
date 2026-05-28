@@ -8,11 +8,11 @@
 
 </div>
 
-<img src="./img/linebreak.gif">
+---
 
 ```bash
 $ whoami
-kristian — protocol engineer & forensic accountant (CrFA · CFC)
+kristian, protocol engineer & forensic accountant (CrFA · CFC)
 
 > I build systems that move capital, and carry the accounting rigor
 > to prove they are correct. Smart contracts where a rounding error
@@ -20,28 +20,29 @@ kristian — protocol engineer & forensic accountant (CrFA · CFC)
 > and the monitoring to know the moment something is wrong.
 
 $ status
-Selectively available — protocol engineering, security reviews,
+Selectively available for protocol engineering, security reviews,
 and DeFi build/advisory engagements.
 ```
 
-<img src="./img/linebreak.gif">
+---
 
 ## Domains
 
 ```text
-Protocol & Smart Contracts   Solidity systems — yield, launchpads, bonding curves, account modules
+Protocol & Smart Contracts   Solidity: yield, launchpads, bonding curves, account modules
 Treasury & Automation        On-chain corporate treasury, JIT funding, financial workflow automation
 Security & Forensics         Threat modeling, on-chain monitoring, forensic accounting & investigation
 Full-Stack Delivery          Next.js / React dashboards and Web3 frontends, shipped end to end
 ```
 
-<img src="./img/linebreak.gif">
+---
 
 ## Stack
 
+<div align="center">
 <table>
   <tr>
-    <td valign="top" width="150"><b>Protocol / Chain</b></td>
+    <td valign="top" width="150"><b>Blockchain</b></td>
     <td>
       <img src="./img/Solidity.svg" width="44" height="44" alt="Solidity"/>&nbsp;&nbsp;
       <img src="./img/foundry.png" width="44" height="44" alt="Foundry"/>&nbsp;&nbsp;
@@ -83,36 +84,39 @@ Full-Stack Delivery          Next.js / React dashboards and Web3 frontends, ship
     </td>
   </tr>
 </table>
+</div>
 
-<img src="./img/linebreak.gif">
+---
 
 ## Operating Principles
 
 ```text
-01   Correctness over cleverness — money code earns no style points.
-02   Audit trails by default — if it can't be reconciled, it isn't done.
-03   Threat-model first — assume the adversary read the source.
-04   Composable over bespoke — standards (ERC, Safe) before reinvention.
-05   Measure what ships — monitored in production, or it doesn't exist.
+01   Correctness over cleverness.
+02   Audit trails by default.
+03   Threat model first.
+04   Composable over bespoke.
+05   Measure what ships.
 ```
 
-<img src="./img/linebreak.gif">
+---
 
 ## Signal
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kristianism&show_icons=true&hide_border=true&hide_rank=true&hide_title=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58A6FF&include_all_commits=true&count_private=true" alt="GitHub activity" />
+<img src="https://github-readme-stats.vercel.app/api?username=kristianism&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristianism&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
 
-<img src="./img/linebreak.gif">
+---
 
 ## Contact
 
 <div align="center">
 
-Building something where capital meets code — and correctness is non-negotiable.
+Building something where capital meets code. Correctness is non-negotiable.
 
 <a href="https://x.com/0xKristianity">
   <img src="https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=c9d1d9&labelColor=0d1117" alt="X / Twitter" height="30"/>
