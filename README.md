@@ -1,169 +1,133 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=200&section=header&text=Hi%2C%20I'm%20Kristian!&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Bridging%20financial%20integrity%20with%20scalable%20code.&descAlignY=56&descSize=18&descColor=aaaaaa&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=150&section=header&text=Kristian&fontSize=56&fontColor=c9d1d9&fontAlignY=50&desc=protocol%20engineering%20%C2%B7%20defi%20architecture%20%C2%B7%20on-chain%20security&descSize=15&descAlignY=76&descColor=58A6FF" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=Financial+Systems+Developer+%F0%9F%92%B0;Solidity+%26+Smart+Contract+Dev+%F0%9F%94%A5;n8n+Automation+Builder+%E2%9A%A1;Bridging+TradFi+%26+DeFi+%F0%9F%9A%80)](https://git.io/typing-svg)
+`Protocol Engineering` · `DeFi Architecture` · `Forensic Accounting` · `On-chain Security`
 
-![Profile Views](https://komarev.com/ghpvc/?username=kristianism&color=58A6FF&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=kristianism&color=58A6FF&style=flat-square&label=profile+views)
 
 </div>
 
-<img src="./img/linebreak.gif">
+---
 
-## About Me
+```bash
+$ whoami
+kristian, protocol engineer & forensic accountant (CrFA · CFC)
 
-A developer with a finance background, building the tools that automate, audit, and scale financial operations.
+> I build systems that move capital, and carry the accounting rigor
+> to prove they are correct. Smart contracts where a rounding error
+> is a liability, treasury automation where every flow is auditable,
+> and the monitoring to know the moment something is wrong.
 
-- 💻 Designing **n8n workflows** and API integrations for accounting and financial systems
-- 🔗 Building **ERC-20 tokens, NFTs, and DeFi protocols** plus smart contract security audits
-- 📊 Certified in forensic accounting and financial consulting, **CrFA | CFC | BS Management Accounting**
-- 🌐 Crafting full-stack **Next.js** dashboards and Web3 frontends
+$ status
+Selectively available for protocol engineering, security reviews,
+and DeFi build/advisory engagements.
+```
 
-<img src="./img/linebreak.gif">
+---
 
-## Tech Stack
+## Domains
 
+```text
+Protocol & Smart Contracts   Solidity: yield, launchpads, bonding curves, account modules
+Treasury & Automation        On-chain corporate treasury, JIT funding, financial workflow automation
+Security & Forensics         Threat modeling, on-chain monitoring, forensic accounting & investigation
+Full-Stack Delivery          Next.js / React dashboards and Web3 frontends, shipped end to end
+```
+
+---
+
+## Stack
+
+<div align="center">
 <table>
   <tr>
-    <td valign="top" width="120"><b>Languages</b></td>
+    <td valign="top" width="150"><b>Blockchain</b></td>
     <td>
-      <table>
-        <tr>
-          <td align="center" width="96">
-            <img src="./img/TypeScript.svg" width="48" height="48" alt="TypeScript"/>
-            <br>TypeScript
-          </td>
-          <td align="center" width="96">
-            <img src="./img/JavaScript.svg" width="48" height="48" alt="JavaScript"/>
-            <br>JavaScript
-          </td>
-          <td align="center" width="96">
-            <img src="./img/Python-Dark.svg" width="48" height="48" alt="Python"/>
-            <br>Python
-          </td>
-        </tr>
-      </table>
+      <img src="./img/Solidity.svg" width="44" height="44" alt="Solidity"/>&nbsp;&nbsp;
+      <img src="./img/foundry.png" width="44" height="44" alt="Foundry"/>&nbsp;&nbsp;
+      <img src="./img/hardhat-original.svg" width="44" height="44" alt="Hardhat"/>
     </td>
   </tr>
   <tr>
-    <td valign="top" width="120"><b>Frameworks</b></td>
+    <td valign="top" width="150"><b>Languages</b></td>
     <td>
-      <table>
-        <tr>
-          <td align="center" width="96">
-            <img src="./img/nextjs-original.svg" width="48" height="48" alt="Next.js"/>
-            <br>Next.js
-          </td>
-          <td align="center" width="96">
-            <img src="./img/React-Dark.svg" width="48" height="48" alt="React"/>
-            <br>React
-          </td>
-          <td align="center" width="96">
-            <img src="./img/TailwindCSS-Dark.svg" width="48" height="48" alt="Tailwind CSS"/>
-            <br>Tailwind CSS
-          </td>
-          <td align="center" width="96">
-            <img src="./img/NodeJS-Dark.svg" width="48" height="48" alt="Node.js"/>
-            <br>Node.js
-          </td>
-        </tr>
-      </table>
+      <img src="./img/TypeScript.svg" width="44" height="44" alt="TypeScript"/>&nbsp;&nbsp;
+      <img src="./img/JavaScript.svg" width="44" height="44" alt="JavaScript"/>&nbsp;&nbsp;
+      <img src="./img/Python-Dark.svg" width="44" height="44" alt="Python"/>
     </td>
   </tr>
   <tr>
-    <td valign="top" width="120"><b>Blockchain</b></td>
+    <td valign="top" width="150"><b>Full-Stack</b></td>
     <td>
-      <table>
-        <tr>
-          <td align="center" width="96">
-            <img src="./img/Solidity.svg" width="48" height="48" alt="Solidity"/>
-            <br>Solidity
-          </td>
-          <td align="center" width="96">
-            <img src="./img/foundry.png" width="48" height="48" alt="Foundry"/>
-            <br>Foundry
-          </td>
-          <td align="center" width="96">
-            <img src="./img/hardhat-original.svg" width="48" height="48" alt="Hardhat"/>
-            <br>Hardhat
-          </td>
-        </tr>
-      </table>
+      <img src="./img/nextjs-original.svg" width="44" height="44" alt="Next.js"/>&nbsp;&nbsp;
+      <img src="./img/React-Dark.svg" width="44" height="44" alt="React"/>&nbsp;&nbsp;
+      <img src="./img/TailwindCSS-Dark.svg" width="44" height="44" alt="Tailwind CSS"/>&nbsp;&nbsp;
+      <img src="./img/NodeJS-Dark.svg" width="44" height="44" alt="Node.js"/>
     </td>
   </tr>
   <tr>
-    <td valign="top" width="120"><b>Tools</b></td>
+    <td valign="top" width="150"><b>Automation / Data</b></td>
     <td>
-      <table>
-        <tr>
-          <td align="center" width="96">
-            <img src="./img/VSCode-Dark.svg" width="48" height="48" alt="VSCode"/>
-            <br>VSCode
-          </td>
-          <td align="center" width="96">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/>
-            <br>Docker
-          </td>
-          <td align="center" width="96">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="Supabase"/>
-            <br>PostgreSQL
-          </td>
-          <td align="center" width="96">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="48" height="48" alt="Raspberry Pi"/>
-            <br>Raspberry Pi
-          </td>
-        </tr>
-      </table>
+      <img src="https://img.shields.io/badge/n8n-101216?style=flat-square&logo=n8n&logoColor=EA4B71" alt="n8n"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-101216?style=flat-square&logo=postgresql&logoColor=4F90D0" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Xero-101216?style=flat-square&logo=xero&logoColor=13B5EA" alt="Xero"/>
+      <img src="https://img.shields.io/badge/QuickBooks-101216?style=flat-square&logo=intuit&logoColor=2CA01C" alt="QuickBooks"/>
     </td>
   </tr>
   <tr>
-    <td valign="top" width="120"><b>Automation</b></td>
+    <td valign="top" width="150"><b>Tooling</b></td>
     <td>
-      <br>
-      <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-      <img src="https://img.shields.io/badge/Xero-13B5EA?style=for-the-badge&logo=xero&logoColor=white" alt="Xero"/>
-      <img src="https://img.shields.io/badge/QuickBooks-2CA01C?style=for-the-badge&logo=intuit&logoColor=white" alt="QuickBooks"/>
-      <img src="https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=webhooks&logoColor=white" alt="Webhooks"/>
-      <br><br>
+      <img src="./img/VSCode-Dark.svg" width="44" height="44" alt="VSCode"/>&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="44" height="44" alt="Docker"/>&nbsp;&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="44" height="44" alt="Raspberry Pi"/>
     </td>
   </tr>
 </table>
+</div>
 
-<img src="./img/linebreak.gif">
+---
 
-## GitHub Stats
+## Operating Principles
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=kristianism&theme=dark&hide_border=true" alt="GitHub Streak"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=kristianism&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats"/>
-    </td>
-  </tr>
-</table>
+```text
+01   Correctness over cleverness.
+02   Audit trails by default.
+03   Threat model first.
+04   Composable over bespoke.
+05   Measure what ships.
+```
 
-<img src="./img/linebreak.gif">
+---
 
-## Let's Build Together
+## Signal
 
 <div align="center">
 
-### Open to collaborations in DeFi, financial automation, and Web3 tooling.
+<img src="https://github-readme-stats.vercel.app/api?username=kristianism&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristianism&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
 
-<a href="https://discord.com/users/iamkristian">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-<a href="https://t.me/thisiskristian">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+
+Building something where capital meets code. Correctness is non-negotiable.
+
 <a href="https://x.com/0xKristianity">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"/>
+  <img src="https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=c9d1d9&labelColor=0d1117" alt="X / Twitter" height="30"/>
 </a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=120&section=footer" />
+&nbsp;
+<a href="https://t.me/thisiskristian">
+  <img src="https://img.shields.io/badge/Telegram-0d1117?style=flat-square&logo=telegram&logoColor=58A6FF&labelColor=0d1117" alt="Telegram" height="30"/>
+</a>
+&nbsp;
+<a href="https://discord.com/users/iamkristian">
+  <img src="https://img.shields.io/badge/Discord-0d1117?style=flat-square&logo=discord&logoColor=58A6FF&labelColor=0d1117" alt="Discord" height="30"/>
+</a>
 
 </div>
