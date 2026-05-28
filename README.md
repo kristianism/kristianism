@@ -104,9 +104,11 @@ Full-Stack Delivery          Next.js / React dashboards and Web3 frontends, ship
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kristianism&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristianism&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kristianism&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kristianism&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9" width="100%" alt="Activity Graph" />
 
 </div>
 
