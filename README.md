@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=150&section=header&text=kristian&fontSize=56&fontColor=c9d1d9&fontAlignY=50&desc=protocol%20engineering%20%C2%B7%20defi%20architecture%20%C2%B7%20on-chain%20security&descSize=15&descAlignY=76&descColor=58A6FF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=150&section=header&text=Kristian&fontSize=56&fontColor=c9d1d9&fontAlignY=50&desc=protocol%20engineering%20%C2%B7%20defi%20architecture%20%C2%B7%20on-chain%20security&descSize=15&descAlignY=76&descColor=58A6FF" width="100%" />
 
 `Protocol Engineering` · `DeFi Architecture` · `Forensic Accounting` · `On-chain Security`
+
+![Profile Views](https://komarev.com/ghpvc/?username=kristianism&color=58A6FF&style=flat-square&label=profile+views)
 
 </div>
 
@@ -32,20 +34,6 @@ Treasury & Automation        On-chain corporate treasury, JIT funding, financial
 Security & Forensics         Threat modeling, on-chain monitoring, forensic accounting & investigation
 Full-Stack Delivery          Next.js / React dashboards and Web3 frontends, shipped end to end
 ```
-
-<img src="./img/linebreak.gif">
-
-## Selected Work
-
-A working index — not a portfolio reel. Each is built to a production standard.
-
-| System | What it is | Stack |
-| :--- | :--- | :--- |
-| **[zero-balance-sweep-module](https://github.com/kristianism/zero-balance-sweep-module)** | Smart-account module for automated zero-balance corporate sweeps and Just-In-Time OpEx funding. Treasury discipline, enforced on-chain. | `Solidity` · `Aave V3` · `ERC-6900` · `Safe` · `Foundry` |
-| **[ouroboros-protocol](https://github.com/kristianism/ouroboros-protocol)** | DeFi protocol architecture — incentive and supply mechanics designed as a closed system. | `Solidity` · `Foundry` |
-| **[defi-token-launchpad](https://github.com/kristianism/defi-token-launchpad)** · **[continuous-token-generator](https://github.com/kristianism/continuous-token-generator)** | EVM launchpad and a continuous bonding-curve token generator — primary issuance, priced by curve. | `Solidity` · `EVM` |
-| **[crypto-watchdog](https://github.com/kristianism/crypto-watchdog)** | On-chain monitoring bot — surfaces anomalies before they become incidents. | `Python` |
-| **[broiler-terminal](https://github.com/kristianism/broiler-terminal)** | Institutional-grade operations monitoring for poultry aggregators. Systems thinking, applied off-chain. | `TypeScript` |
 
 <img src="./img/linebreak.gif">
 
@@ -124,7 +112,7 @@ A working index — not a portfolio reel. Each is built to a production standard
 
 <div align="center">
 
-Building something where capital meets code — and correctness is non-negotiable?
+Building something where capital meets code — and correctness is non-negotiable.
 
 <a href="https://x.com/0xKristianity">
   <img src="https://img.shields.io/badge/X-0d1117?style=flat-square&logo=x&logoColor=c9d1d9&labelColor=0d1117" alt="X / Twitter" height="30"/>
