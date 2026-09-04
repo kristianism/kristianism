@@ -16,7 +16,7 @@
 
 I’m Kristian, a protocol engineer and forensic accountant (`CrFA` · `CFC`) with a BS in Management Accounting. I work across smart contracts, treasury automation, Web3 applications, and on-chain security.
 
-The goal is straightforward: design the transaction path, instrument the system, and keep enough evidence to explain what happened after it ships. That means smart contracts where a rounding error is a liability, treasury automation where every flow is auditable, and monitoring that makes failures visible while they are still actionable.
+The goal is straightforward: design the transaction path, instrument the system, and keep enough evidence to explain what happened after it ships.
 
 > **Available for** protocol engineering, security reviews, and DeFi build or advisory engagements.
 
