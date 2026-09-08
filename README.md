@@ -72,7 +72,7 @@ Public repositories, described from their own READMEs. Status lines state exactl
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" valign="top">
       <h3><a href="https://github.com/kristianism/discord-n8n-bridge">Discord to n8n Bridge</a></h3>
       <p><code>TypeScript</code> <code>Node.js 20</code> <code>Docker</code></p>
       <p>A persistent service that holds a Discord Gateway connection, normalizes created and edited messages into a versioned JSON envelope, and delivers them to an n8n webhook that owns routing.</p>
@@ -81,16 +81,6 @@ Public repositories, described from their own READMEs. Status lines state exactl
         <li>Guild and channel allowlists, bot and webhook loop prevention, redacted structured logs, and graceful shutdown that drains in-flight deliveries.</li>
       </ul>
       <p><sub><b>Status:</b> deployable service, one instance per bot and n8n webhook, configured entirely through environment variables.</sub></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/kristianism/defi-yield-farm">DeFi Yield Farm</a></h3>
-      <p><code>Solidity 0.8.20</code> <code>OpenZeppelin</code> <code>MasterChef</code></p>
-      <p>A MasterChef-style staking template that distributes any elected ERC-20 as the reward token.</p>
-      <ul>
-        <li>Per-second emissions with a transparent <code>updateEmissionRate</code> instead of hidden dummy pools; configurable allocation points and deposit fees.</li>
-        <li><code>pendingReward</code> view, <code>emergencyWithdraw</code>, ReentrancyGuard, and SafeERC20 reward transfers.</li>
-      </ul>
-      <p><sub><b>Status:</b> template and earlier work, last updated March 2025.</sub></p>
     </td>
   </tr>
 </table>
