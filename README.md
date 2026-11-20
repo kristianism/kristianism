@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="./img/header.png" width="100%" alt="Marc Pios, Systems Accountant — finance systems and automation, financial reporting, accounting integrations" />
+  <img src="./img/header.png" width="100%" alt="Kristian, Systems Accountant — finance systems and automation, financial reporting, accounting integrations" />
 </div>
 
 ## Finance systems, grounded in accounting
 
-I'm Marc Pios, also known as Kristian. I'm a Systems Accountant: fractional finance management and bank general-ledger work, plus the software that removes the manual steps around them.
+I'm Kristian, a Systems Accountant: fractional finance management and bank general-ledger work, plus the software that removes the manual steps around them.
 
 Automation only earns its place when it stays auditable. In practice: defined business rules, a named approver, a written record of what changed, and a ledger that still balances after the run. When a coding agent drafts part of a workflow, the accounting rules and the approval step are written down and checked by a person.
 
